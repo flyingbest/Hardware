@@ -117,20 +117,26 @@ Date | Graphic Card | RAM | OS (C:/) | SDD | HDD
 
 ## Problems occur (with date) 
 
-1. Booting failure (Monday, 01-30-2017, 21:00) 
+1. **Booting failure** (Monday, 01-30-2017, 21:00) 
 
 When I press the power of the computer, it tries to boot, and it goes out again in 2 seconds. Repeat this operation continuously.  
 **This problem has continued occured not only on this day but also before.**
 
 ## Trouble Shooting
 
-1. Booting failure Troubleshooting.
+1. **Booting failure Troubleshooting**
 
-	- possible cause
-		- motherboard issues
-		- power-supply issues
-		- cpu issues
-		- dust issues
+	- Possible Cause
+		1. dust problem 
+		2. problem with liquids on graphic card
+		3. motherboard issues
+		4. power-supply issues
+		5. cpu issues
+
+	- Correction
+		1. I don't think so. because I have been removing all the dust just before booting. 	
+
+		
 
  
 
