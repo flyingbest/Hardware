@@ -119,8 +119,7 @@ Date | Graphic Card | RAM | OS (C:/) | SDD | HDD
 
 1. **Booting failure** (Monday, 01-30-2017, 21:00) 
 
-When I press the power of the computer, it tries to boot, and it goes out again in 2 seconds. Repeat this operation continuously.  
-**This problem has continued occured not only on this day but also before.**
+When I press the power of the computer, it tries to boot, and it goes out again in 2 seconds. Repeat this operation continuously. _**This problem has continued occured not only on this day but also before.**_
 
 ## Trouble Shooting
 
@@ -135,9 +134,9 @@ When I press the power of the computer, it tries to boot, and it goes out again 
 
 	- Correction
 		1. I don't think so. because I have been removing all the dust just before booting. 	
-		- I had to disassemble the computer to see the problems from b to e.
+		- I had to disassemble the computer to see the problems from b to e.  
 
-		procedure | Action | Confirm 
+		Procedure | Action | Confirm 
 		----- | ----- | -----
 		1. | Make sure that only the motherboard with CPU is connected to the power to boot. | [o]
 		2. | Mount the RAM on the motherboard and check if it is bootable. | [o] 
