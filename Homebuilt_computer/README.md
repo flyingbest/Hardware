@@ -137,9 +137,17 @@ When I press the power of the computer, it tries to boot, and it goes out again 
 		1. I don't think so. because I have been removing all the dust just before booting. 	
 		- I had to disassemble the computer to see the problems from b to e.
 
-		procedure | Action
-		----- | -----
-		1. | Make sure that only the motherboard with CPU is connected to the power to boot.
+		procedure | Action | Confirm 
+		----- | ----- | -----
+		1. | Make sure that only the motherboard with CPU is connected to the power to boot. | [o]
+		2. | Mount the RAM on the motherboard and check if it is bootable. | [o] 
+		3. | After installing the graphics card on the motherboard, check if it can boot. | [o]
+		4. | After installing the SSD and HDD on the motherboard, check if it is bootable. | [o]
+		5. | After connecting the four fans to the power, make sure that the computer boots up. | [o]
+		6. | After connecting the external USB 3.0x2, 2.0x2 ports, mike, and earphone jack, check if it is bootable. | [x]
+		7. | __Conclusion__ : I finally concluded that power would be a problem.
+Theoretically, the consumption power was not greater than the output power, but since it was booted after being installed sequentially from the beginning, the consumption power was higher. | 
+		8. | I removed unnecessary parts and reassembled them with only the necessary ones. | [o]
 
  
 
