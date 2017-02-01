@@ -18,14 +18,14 @@ No. | division | product name | quantity | price (KRW)
 8 | CASE | ABKO NCORE Viper Helper 3.0 | 1 | 43,120
 9 | OS | Microsoft Windows 8 Pro (DSP 한글 64bit) | 1 | 179,000
 10 | Keyboard | logitech MK270r (include mouse) | 1 | 26,930
-11 | Select | Assembly and Safety packaging | - | 35,000
-12 | Delivery | delivery | - | 2,500
-Sum | - | - | - | 1,546,770
+11 | Select | Assembly and Safety packaging | | 35,000
+12 | Delivery | delivery | | 2,500
+Sum | | | | 1,546,770
 
 When this computer has arrived, I disassembled and rebuilt it for study.   
 I bought it for high-end work requiring multi-processing. For example, broadcast, recording, graphics and video work.
 
-### Precautions
+### Precautions before purchase
 
 Things to check before purchasing an custom-built computer. You need to find out if all products are compatible. Check this list.
 
@@ -36,34 +36,38 @@ Things to check before purchasing an custom-built computer. You need to find out
 - [x] The output power should be higher than the total power consumption of PC parts.
 - [x] Purchase 80-PLUS certified power whenever possible.
 - [x] You should choose a case considering the size of the graphics card, the CPU cooler, and the size of the motherboard.
-- [ ] 
 
 ### CPU
 
 Basically, there are Intel and AMD. intel i3, i5, i7 : this all build-in graphics. Xeon Processor is removed the graphical features and made them available to the server. More about Intel Architecture.
-> i7-ABCDK 4.00GHZ   
-> A : Generation. higher is better.  
-> BCD : Performance. higher is better.  
+> i7-4790K 4.40GHz   
+> 4 : Generation. higher is better.  
+> 790 : Performance. higher is better.  
 > K : OverClock.   
-> 4.00 : Clock. higer is better.  
+> 4.40 : Clock. higer is better.  
 
-Architecture | Generation 
------ | ----- 
+Architecture | Generation | My PC
+----- | ----- | -----
 Nehalem | 1 (2008) 
 Sandybridge | 2 (2011)
 Ivybridge | 3 (2012)
 Haswell | 4 (2013)
 Haswell refresh | 4 (2014)
-Devil's Canyon | 4 (2014)
+Devil's Canyon | 4 (2014) | - [x]
 Broadwell | 5 (2014)
 Sky lake | 6 (2015)
 Kaby lake | 7 (2016)
 Canon lake | 8 (2017)
 
+### Motherboard (Mainboard)
+
+A motherboard is the main printed circuit board(PCB) found in general purpose microcomputers and other expandable systems. There are MINI-ITX, M-ITX, and ATX types of motherboard.  
+The motherboard is divided into size, chipset, CPU socket, and RAM slot.
+
 ### Graphic Card
 
 Basically, there are Geforce and AMD. A graphic card is an expansion card which generates a feed of output images to a display (such as a computer monitor). It is called an external graphics card and converts it into a video signal that can view digital data and transmit it to a monitor. GPU, video memory, and monitor output.
-> GTX 960 Strix D5
+> GTX 960   
 > GTX : Series. high grade.  
 > 9 : Generation. higher is better.  
 > 60 : Performance. higher is better.   
@@ -77,12 +81,6 @@ Random-access memory is a form of computer data storage which stores frequently 
 > PC3 : pc3 is DDR3. pc4 is DDR4.  
 > 12800 : Data rate per second.  
 > 8GB : Volume.  
-
-### Motherboard (Mainboard)
-
-A motherboard is the main printed circuit board(PCB) found in general purpose microcomputers and other expandable systems. There are MINI-ITX, M-ITX, and ATX types of motherboard.  
-The motherboard is divided into size, chipset, CPU socket, and RAM slot.
-
 
 ### Power Supply
 
