@@ -39,7 +39,7 @@ Things to check before purchasing an custom-built computer. You need to find out
 
 ## Computer Hardware Brief instruction 
 
-* CPU
+* __CPU__
 
 Basically, there are Intel and AMD. intel i3, i5, i7 : this all build-in graphics. Xeon Processor is removed the graphical features and made them available to the server. More about Intel Architecture.
 > i7-4790K 4.40GHz   
@@ -61,12 +61,12 @@ Sky lake | 6 (2015)
 Kaby lake | 7 (2016)
 Canon lake | 8 (2017)
 
-* Motherboard (Mainboard)
+* __Motherboard (Mainboard)__
 
 A motherboard is the main printed circuit board(PCB) found in general purpose microcomputers and other expandable systems. There are MINI-ITX, M-ITX, and ATX types of motherboard.  
 The motherboard is divided into size, chipset, CPU socket, and RAM slot.
 
-* Graphic Card
+* __Graphic Card__
 
 Basically, there are Geforce and AMD. A graphic card is an expansion card which generates a feed of output images to a display (such as a computer monitor). It is called an external graphics card and converts it into a video signal that can view digital data and transmit it to a monitor. GPU, video memory, and monitor output.
 > GTX 960   
@@ -74,7 +74,7 @@ Basically, there are Geforce and AMD. A graphic card is an expansion card which 
 > 9 : Generation. higher is better.  
 > 60 : Performance. higher is better.   
 
-* Memory Card (RAM)
+* __Memory Card (RAM)__
 
 Random-access memory is a form of computer data storage which stores frequently used program instructions to increase the general speed of a system.
 > DDR3 2400MHz PC3-12800 8GB
@@ -84,7 +84,7 @@ Random-access memory is a form of computer data storage which stores frequently 
 > 12800 : Data rate per second.  
 > 8GB : Volume.  
 
-* SSD / HDD
+* __SSD / HDD__
 
 A solid-state drive is a solid-state storage device that uses integrated circuit assemblies as memory to store data persistently.  
 A hard disk drive is a data storage device that uses magnetic storage to store and retrieve digital information using one or more rigid rapidly rotating disks coated with magnetic material.  
@@ -98,6 +98,31 @@ A power supply is an electronic device that supplies electric energy to an elect
 
 In public, it is divided into Slim, Mini-tower, Middle-tower, and Big-tower according to the size. 
 
-[//]: # (this is comment test.)
+## Current Computer System Environment
 
+Keep updating my homebuilt computer system. (Big Configuration.)
+
+Date | Moniter | KeyBoard | RAM | OS | SDD | HDD
+----- | ----- | ----- | ----- | ----- | ----- | ----- 
+02-28-2015 | LG 27MA53DW | Logitech MK270r | 2x8GB(16GB) | Windows 8 pro | 1 (C://) | 1 (D://)
+05-30-2015 |  |  |  | Windows 8.1 pro |  | 2 (+ E://) 
+01-25-2016 |  | Deck 108 Hassium Pro |  |  |  | 3 (+ F://) 
+07-01-2016 |  |  | Windows 10 pro |  |  |  | 
+
+
+## Problems occur (with date) 
+
+1. Booting failure ( 
+When I press the power of the computer, it tries to boot, and it goes out again in 2 seconds.
+
+
+## Trouble Shooting
+
+ 
+
+
+
+
+
+[//]: # (this is comment test.)
 
