@@ -39,7 +39,7 @@ Things to check before purchasing an custom-built computer. You need to find out
 
 ## Computer Hardware Brief instruction 
 
-### * CPU
+* CPU
 
 Basically, there are Intel and AMD. intel i3, i5, i7 : this all build-in graphics. Xeon Processor is removed the graphical features and made them available to the server. More about Intel Architecture.
 > i7-4790K 4.40GHz   
@@ -61,12 +61,12 @@ Sky lake | 6 (2015)
 Kaby lake | 7 (2016)
 Canon lake | 8 (2017)
 
-### * Motherboard (Mainboard)
+* Motherboard (Mainboard)
 
 A motherboard is the main printed circuit board(PCB) found in general purpose microcomputers and other expandable systems. There are MINI-ITX, M-ITX, and ATX types of motherboard.  
 The motherboard is divided into size, chipset, CPU socket, and RAM slot.
 
-### * Graphic Card
+* Graphic Card
 
 Basically, there are Geforce and AMD. A graphic card is an expansion card which generates a feed of output images to a display (such as a computer monitor). It is called an external graphics card and converts it into a video signal that can view digital data and transmit it to a monitor. GPU, video memory, and monitor output.
 > GTX 960   
@@ -74,7 +74,7 @@ Basically, there are Geforce and AMD. A graphic card is an expansion card which 
 > 9 : Generation. higher is better.  
 > 60 : Performance. higher is better.   
 
-### * Memory Card (RAM)
+* Memory Card (RAM)
 
 Random-access memory is a form of computer data storage which stores frequently used program instructions to increase the general speed of a system.
 > DDR3 2400MHz PC3-12800 8GB
@@ -84,17 +84,17 @@ Random-access memory is a form of computer data storage which stores frequently 
 > 12800 : Data rate per second.  
 > 8GB : Volume.  
 
-### * SSD / HDD
+* SSD / HDD
 
 A solid-state drive is a solid-state storage device that uses integrated circuit assemblies as memory to store data persistently.  
 A hard disk drive is a data storage device that uses magnetic storage to store and retrieve digital information using one or more rigid rapidly rotating disks coated with magnetic material.  
 I installed windows 8 pro as the default operating system on the SSD, and the HDD is being used as the D:/ drive.
 
-### * Power Supply
+* __Power Supply__
 
 A power supply is an electronic device that supplies electric energy to an electrical load. There are TFX, M-ATX, and ATX types of power supply. It is divided into General Configuration, Modular, and Full modular according to the line connection.  
 
-### * PC Case
+* __PC Case__
 
 In public, it is divided into Slim, Mini-tower, Middle-tower, and Big-tower according to the size. 
 
