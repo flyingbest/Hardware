@@ -103,7 +103,7 @@ In public, it is divided into Slim, Mini-tower, Middle-tower, and Big-tower acco
 Keep updating my homebuilt computer system. (Big Configuration.)
 
 Date | Moniter | KeyBoard | Mouse | RAM | OS | SDD | HDD
------ | ----- | ----- | ----- | ----- | ----- | ----- 
+----- | ----- | ----- | ----- | ----- | ----- | ----- | -----
 02-28-2015 | LG 27MA53DW | Logitech MK270r | Cosy wireless | 2x8GB(16GB) | Windows 8 pro | 1x256GB (C:/) | 1x1TB (D:/)
 05-30-2015 |  |  |  |  | Windows 8.1 pro |  | 2x1TB (+ E:/) 
 12-10-2015 |  |  |  |  |  |  | 3x1TB (+ F:/) 
