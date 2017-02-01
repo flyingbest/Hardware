@@ -135,8 +135,7 @@ When I press the power of the computer, it tries to boot, and it goes out again 
 
 	- Correction
 		1. I don't think so. because I have been removing all the dust just before booting. 	
-
-		
+		2. ~ 5. I had to disassemble the computer to see the problems from 2. to 5.
 
  
 
