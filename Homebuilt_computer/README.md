@@ -102,17 +102,17 @@ In public, it is divided into Slim, Mini-tower, Middle-tower, and Big-tower acco
 
 Keep updating my homebuilt computer system. (Big Configuration.)
 
-Date | Moniter | KeyBoard | Mouse 
------ | ----- | ----- | ----- 
-02-28-2015 | LG 27MA53DW | Logitech MK270r | Cosy wireless 
-01-25-2016 |  | Deck 108 Hassium Pro |  
+Date | Moniter | KeyBoard | Mouse | Power | Fan
+----- | ----- | ----- | ----- | ----- | ----- 
+02-28-2015 | LG 27MA53DW | Logitech MK270r | Cosy wireless | TOP-600D | Case fan (4ea)
+01-25-2016 |  | Deck 108 Hassium Pro |  |  |   
 
-Date | RAM | OS | SDD | HDD
------ | ----- | ----- | ----- | ----- 
-02-28-2015 | 2x8GB(16GB) | Windows 8 pro | 1x256GB (C:/) | 1x1TB (D:/)
-05-30-2015 |  | Windows 8.1 pro |  | 2x1TB (+ E:/) 
-12-10-2015 |  |  |  | 3x1TB (+ F:/) 
-07-01-2016 |  | Windows 10 pro |  |  
+Date | Graphic Card | RAM | OS (C:/) | SDD | HDD
+----- | ----- | ----- | ----- | ----- | ----- 
+02-28-2015 | Geforce GTX 960 | 2x8GB(16GB) | Windows 8 pro | 1x256GB (C:/) | 1x1TB (D:/)
+05-30-2015 |  |  | Windows 8.1 pro |  | 2x1TB (+ E:/) 
+12-10-2015 |  |  |  |  | 3x1TB (+ F:/) 
+07-01-2016 |  |  | Windows 10 pro |  |  
 
 
 ## Problems occur (with date) 
