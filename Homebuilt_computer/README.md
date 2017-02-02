@@ -4,11 +4,11 @@ This document is about my custom-built computer system.
 
 ## Purchased computer hardware
 
-This is purchased list in ihicom, 2015-02-02. This list is my first ordered homebuilt computer. 
+This is purchased list in ihicom, 02-02-2015. This list is my first ordered homebuilt computer. 
 
-No. | division | product name | quantity | price (KRW)
+No. | Division | Product name | Quantity | Price (KRW)
 ----- | ----- | ----- | ----- | -----
-1 | CPU | Intel Core i7-4790K Processor (Devil's Canyon) | 1 | 415,960 
+1 | CPU | Intel Core i7-4790K Processor (Devil's Canyon - 4Generation) | 1 | 415,960 
 2 | MotherBoard | ASUS H97-PRO GAMER STCOM | 1 | 147,000 
 3 | Memory | Samsung DDR3 8G PC3-12800 | 2 | 143,280
 4 | Graphic Card | ASUS Geforce GTX960 STRIX D5 2GB | 1 | 294,000
@@ -16,14 +16,14 @@ No. | division | product name | quantity | price (KRW)
 6 | HDD | WD 1TB BLUE WD10EZEX (SATA3/7200/64M) | 1 | 63,780
 7 | POWER | Topower TOP-600D 80PLUS BRONZE | 1 | 74,500
 8 | CASE | ABKO NCORE Viper Helper 3.0 | 1 | 43,120
-9 | OS | Microsoft Windows 8 Pro (DSP 한글 64bit) | 1 | 179,000
-10 | Keyboard | logitech MK270r (include mouse) | 1 | 26,930
-11 | Select | Assembly and Safety packaging | - | 35,000
-12 | Delivery | delivery | - | 2,500
+9 | Operating System | Microsoft Windows 8 Pro (DSP 한글 64bit) | 1 | 179,000
+10 | Keyboard | Logitech MK270r (include wireless mouse) | 1 | 26,930
+11 | Select | Assembly and Special safety packaging | - | 35,000
+12 | Delivery | Delivery | - | 2,500
 Sum | | | | 1,546,770
 
 When this computer has arrived, I disassembled and rebuilt it for study.   
-I bought it for high-end work requiring multi-processing. For example, broadcast, recording, graphics and video work.
+I bought it for high-end work requiring multi-processing. For example, broadcast, recording, graphics and video works.
 
 ## Precautions before purchase
 
@@ -45,7 +45,7 @@ Basically, there are Intel and AMD. intel i3, i5, i7 : this all build-in graphic
 > i7-4790K 4.40GHz   
 > 4 : Generation. higher is better.  
 > 790 : Performance. higher is better.  
-> K : OverClock.   
+> K : OverClock. X : Extreme. S : Performance. T : Low power. None : Basic. 
 > 4.40 : Clock. higer is better.  
 
 Architecture | Generation | My current PC 
@@ -55,7 +55,7 @@ Sandybridge | 2 (2011)
 Ivybridge | 3 (2012)
 Haswell | 4 (2013)
 Haswell refresh | 4 (2014)
-Devil's Canyon | 4 (2014) | [V]
+Devil's Canyon | 4 (2014) | [v]
 Broadwell | 5 (2014)
 Sky lake | 6 (2015)
 Kaby lake | 7 (2016)
@@ -102,18 +102,17 @@ In public, it is divided into Slim, Mini-tower, Middle-tower, and Big-tower acco
 
 Keep updating my homebuilt computer system. (Big Configuration.)
 
+Date | CPU | Graphic Card | RAM | OS (C:/) | SDD | HDD
+----- | ----- | ----- | ----- | ----- | ----- | ----- 
+02-10-2015 | Intel i7-4790K | Geforce GTX 960 | 2x8GB(16GB) | Windows 8 pro | 1x256GB  (C:/) | 1x1TB (D:/)
+05-30-2015 |  |  |  | Windows 8.1 pro |  | 2x1TB (+ E:/) 
+12-10-2015 |  |  |  |  |  | 3x1TB (+ F:/) 
+07-01-2016 |  |  |  | Windows 10 pro |  |  
+
 Date | Moniter | KeyBoard | Mouse | Power | Fan
 ----- | ----- | ----- | ----- | ----- | ----- 
 02-28-2015 | LG 27MA53DW | Logitech MK270r | Cosy wireless | TOP-600D | Case fan (4ea)
 01-25-2016 |  | Deck 108 Hassium Pro |  |  |   
-
-Date | Graphic Card | RAM | OS (C:/) | SDD | HDD
------ | ----- | ----- | ----- | ----- | ----- 
-02-28-2015 | Geforce GTX 960 | 2x8GB(16GB) | Windows 8 pro | 1x256GB (C:/) | 1x1TB (D:/)
-05-30-2015 |  |  | Windows 8.1 pro |  | 2x1TB (+ E:/) 
-12-10-2015 |  |  |  |  | 3x1TB (+ F:/) 
-07-01-2016 |  |  | Windows 10 pro |  |  
-
 
 ## Problems occur (with date) 
 
