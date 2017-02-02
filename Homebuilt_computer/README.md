@@ -45,7 +45,7 @@ Basically, there are Intel and AMD. intel i3, i5, i7 : this all build-in graphic
 > i7-4790K 4.40GHz   
 > 4 : Generation. higher is better.  
 > 790 : Performance. higher is better.  
-> K : OverClock. X : Extreme. S : Performance. T : Low power. None : Basic. 
+> K : OverClock. X : Extreme. S : Performance. T : Low power. None : Basic.  
 > 4.40 : Clock. higer is better.  
 
 Architecture | Generation | My current PC 
@@ -102,17 +102,19 @@ In public, it is divided into Slim, Mini-tower, Middle-tower, and Big-tower acco
 
 Keep updating my homebuilt computer system. (Big Configuration.)
 
-Date | CPU | Graphic Card | RAM | OS (C:/) | SDD | HDD
+Date | CPU | Graphic Card | RAM | OS (C:/) | SDD (C:/) | HDD
 ----- | ----- | ----- | ----- | ----- | ----- | ----- 
-02-10-2015 | Intel i7-4790K | Geforce GTX 960 | 2x8GB(16GB) | Windows 8 pro | 1x256GB  (C:/) | 1x1TB (D:/)
-05-30-2015 |  |  |  | Windows 8.1 pro |  | 2x1TB (+ E:/) 
+02-10-2015 | Intel i7-4790K | Geforce GTX 960 | 2x8GB(16GB) | Windows 8 pro | 1x256GB | 1x1TB (D:/)
+05-30-2015 |  |  |  | Windows 8.1 pro |  | 
+07-26-2015 |  |  |  |  |  | 2x1TB (+ E:/) 
 12-10-2015 |  |  |  |  |  | 3x1TB (+ F:/) 
 07-01-2016 |  |  |  | Windows 10 pro |  |  
 
-Date | Moniter | KeyBoard | Mouse | Power | Fan
------ | ----- | ----- | ----- | ----- | ----- 
-02-28-2015 | LG 27MA53DW | Logitech MK270r | Cosy wireless | TOP-600D | Case fan (4ea)
-01-25-2016 |  | Deck 108 Hassium Pro |  |  |   
+Date | Moniter | KeyBoard | Mouse | Power | Fan | Ex Usb Port
+----- | ----- | ----- | ----- | ----- | ----- | -----
+02-10-2015 | LG 27MA53DW | Logitech MK270r | Cosy wireless | TOP-600D | Case fan (4ea) | 3.0x2, 2.0x2
+01-25-2016 |  | Deck 108 Hassium Pro |  |  |  | 
+01-31-2017 |  |  |  | Case fan (2ea) removed | All removed
 
 ## Problems occur (with date) 
 
