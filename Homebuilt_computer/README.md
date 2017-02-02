@@ -120,7 +120,10 @@ Date | Moniter | KeyBoard | Mouse | Power | Fan
 
 1. **Booting failure** (Monday, 01-30-2017, 21:00) 
 
-When I press the power of the computer, it tries to boot, and it goes out again in 2 seconds. Repeat this operation continuously. _**This problem has continued occured not only on this day but also before.**_
+When I press the power of the computer, it tries to boot, and it goes out again in 2 seconds. Repeat this operation continuously. _**This problem has continued occured not only on this day but also before.**_  
+
+2. **problem title**
+
 
 ## Trouble Shooting (with period)
 
@@ -136,8 +139,7 @@ When I press the power of the computer, it tries to boot, and it goes out again 
 	- Correction
 		1. I don't think so. because I have been removing all the dust just before booting. 	
 		2. I had to disassemble the computer to see the problems from b to e.  
-		3.  
-
+		3.   
 		Procedure | Action | Confirm 
 		----- | ----- | -----
 		1. | Make sure that only the motherboard with CPU is connected to the power to boot. | [o]
@@ -147,11 +149,15 @@ When I press the power of the computer, it tries to boot, and it goes out again 
 		5. | After connecting the four fans to the power, make sure that the computer boots up. | [o]
 		6. | After connecting the external USB 3.0x2, 2.0x2 ports, mike, and earphone jack, check if it is bootable. | [x]
 
-	-	Conclusion  
+	-	**Conclusion**  
 		I finally concluded that power would be a problem. Theoretically, the consumption power was not greater than the output power, but since it was booted after being installed sequentially from the beginning, the consumption power was higher.
 
-	- Solution  
-		I removed unnecessary parts and reassembled them with only the necessary ones.
+	- **Solution**  
+		Removed unnecessary parts and reassembled them with only the necessary ones.  
+		Necessary ones : (CPU, Motherboard, RAM, Graphic card, SSD, HDD, 2Fans, Power-supply).  
+		Un-necessary ones : (External USB ports, 2Fans, earphone jack, mike etc).  
+
+2. **Title Trobleshooting**
 
 
 
