@@ -122,7 +122,8 @@ Date | Moniter | KeyBoard | Mouse | Power | Fan
 
 	When I press the power of the computer, it tries to boot, and it goes out again in 2 seconds. Repeat this operation continuously. _**This problem has continued occured not only on this day but also before.**_  
 
-2. **problem title**
+2. **problem title...**
+
 
 
 ## Trouble Shooting (with period)
@@ -153,12 +154,12 @@ Date | Moniter | KeyBoard | Mouse | Power | Fan
 	-	**Conclusion**  
 		I finally concluded that power would be a problem. Theoretically, the consumption power was not greater than the output power, but since it was booted after being installed sequentially from the beginning, the consumption power was higher.
 
-	- **Solution**  
+	- _**Solution**_  
 		Removed unnecessary parts and reassembled them with only the necessary ones.  
 		Necessary ones : (CPU, Motherboard, RAM, Graphic card, SSD, HDD, 2Fans, Power-supply).  
 		Un-necessary ones : (External USB ports, 2Fans, earphone jack, mike etc).  
 
-2. **Title Trobleshooting**
+2. **Title Trobleshooting...**
 
 
 
