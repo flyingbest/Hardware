@@ -14,8 +14,8 @@ This document is about my custom-built computer system.
 	- power
 	- case
 4. [Current computer system environment](#current-computer-system-environment)
-5. [Problem occur(keep updating)](#problems-occur-(with-date))
-6. [Trouble shooting(keep updating)](#trouble-shooting-(with-period))
+5. [Problem occur(keep updating)](#problems-occur-with-date)
+6. [Trouble shooting(keep updating)](#trouble-shooting-with-period)
 
 ## Purchased computer hardware
 
