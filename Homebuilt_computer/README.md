@@ -1,8 +1,11 @@
 # Homebuilt Computer
 
-This document is about my custom-built computer system.
+This document is about my custom-built computer system.  
 
-* [Foo](#foo)
+**Contents**
+
+- [Purchased computer](#purchased-computer-hardware)  
+- [Precautions berfore purchase](#precautions-before-purchase)
 
 ## Purchased computer hardware
 
