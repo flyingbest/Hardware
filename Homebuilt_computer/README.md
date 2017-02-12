@@ -2,8 +2,17 @@
 
 This document is about my custom-built computer system.
 
-## Purchased computer hardware
+<dl>
+	<dt>list</dt>
+	<dd>asdfasdfasdf</dd>
+	<a href="#tag1"> 이걸 클릭하면 이동 </a>
 
+</dl>
+
+## Purchased computer hardware
+<dl>
+<a name="tag1"> 이동</a>
+</dl>
 This is purchased list in ihicom, 02-02-2015. This list is my first ordered homebuilt computer. 
 
 No. | Division | Product name | Quantity | Price (KRW)
@@ -166,4 +175,6 @@ Date | Moniter | KeyBoard | Mouse | Power | Fan
 
 
 [//]: # (this is comment test.)
-
+<dl>
+<onclick="window.lacation.href">
+</dl>
