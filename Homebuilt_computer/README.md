@@ -5,14 +5,12 @@ This document is about my custom-built computer system.
 <dl>
 	<dt>list</dt>
 	<dd>asdfasdfasdf</dd>
-	<a href="#tag1"> 이걸 클릭하면 이동 </a>
-
+	<dt>move</dt>
+	<dd><a href="#tag1">이걸 클릭하면 이동</a></dd>
 </dl>
 
 ## Purchased computer hardware
-<dl>
-<a name="tag1"> 이동</a>
-</dl>
+
 This is purchased list in ihicom, 02-02-2015. This list is my first ordered homebuilt computer. 
 
 No. | Division | Product name | Quantity | Price (KRW)
@@ -35,7 +33,9 @@ When this computer has arrived, I disassembled and rebuilt it for study.
 I bought it for high-end work requiring multi-processing. For example, broadcast, recording, graphics and video works.
 
 ## Precautions before purchase
-
+<dl>
+<a name="tag1"> 이동</a>
+</dl>
 Things to check before purchasing an custom-built computer. You need to find out if all products are compatible. Check this list.
 
 - [x] Make sure that the motherboard socket matches the CPU socket.
