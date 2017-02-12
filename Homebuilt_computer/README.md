@@ -7,7 +7,7 @@ This document is about my custom-built computer system.
 This is purchased list in ihicom, 02-02-2015. This list is my first ordered homebuilt computer. 
 
 No. | Division | Product name | Quantity | Price (KRW)
------ | ----- | ----- | ----- | -----
+----- | ----- | ----- |:-----:| -----
 1 | CPU | Intel Core i7-4790K Processor (Devil's Canyon - 4Generation) | 1 | 415,960 
 2 | MotherBoard | ASUS H97-PRO GAMER STCOM | 1 | 147,000 
 3 | Memory | Samsung DDR3 8G PC3-12800 | 2 | 143,280
