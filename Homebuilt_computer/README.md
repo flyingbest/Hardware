@@ -48,14 +48,14 @@ Basically, there are Intel and AMD. intel i3, i5, i7 : this all build-in graphic
 > K : OverClock. X : Extreme. S : Performance. T : Low power. None : Basic.  
 > 4.40 : Clock. higer is better.  
 
-Architecture | Generation | My current PC 
------ | ----- | -----
+Architecture | Generation | Current 
+:-----:|:-----:|:-----:
 Nehalem | 1 (2008) 
 Sandybridge | 2 (2011)
 Ivybridge | 3 (2012)
 Haswell | 4 (2013)
 Haswell refresh | 4 (2014)
-Devil's Canyon | 4 (2014) | [v]
+Devil's Canyon | 4 (2014) | v
 Broadwell | 5 (2014)
 Sky lake | 6 (2015)
 Kaby lake | 7 (2016)
@@ -103,7 +103,7 @@ In public, it is divided into Slim, Mini-tower, Middle-tower, and Big-tower acco
 Keep updating my homebuilt computer system. (Big Configuration.)
 
 Date | CPU | Graphic Card | RAM | OS (C:/) | SDD (C:/) | HDD
------ | ----- | ----- | ----- | ----- | ----- | ----- 
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 02-10-2015 | Intel i7-4790K | Geforce GTX 960 | 2x8GB(16GB) | Windows 8 pro | 1x256GB | 1x1TB (D:/)
 05-30-2015 |  |  |  | Windows 8.1 pro |  | 
 07-26-2015 |  |  |  |  |  | 2x1TB (+ E:/) 
@@ -111,7 +111,7 @@ Date | CPU | Graphic Card | RAM | OS (C:/) | SDD (C:/) | HDD
 07-01-2016 |  |  |  | Windows 10 pro |  |  
 
 Date | Moniter | KeyBoard | Mouse | Power | Fan 
------ | ----- | ----- | ----- | ----- | ----- 
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----: 
 02-10-2015 | LG 27MA53DW | Logitech MK270r | Cosy wireless | TOP-600D | Case fan (4ea) 
 01-25-2016 |  | Deck 108 Hassium Pro |  |  |  
 01-31-2017 |  |  |  |  | 2ea removed 
@@ -143,7 +143,7 @@ Date | Moniter | KeyBoard | Mouse | Power | Fan
 		3. 
 
 		Procedure | Action | Confirm 
-		----- | ----- | -----
+		----- | ----- |:-----:
 		1. | Make sure that only the motherboard with CPU is connected to the power to boot. | [o]
 		2. | Mount the RAM on the motherboard and check if it is bootable. | [o] 
 		3. | After installing the graphics card on the motherboard, check if it can boot. | [o]
