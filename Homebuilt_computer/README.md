@@ -3,10 +3,7 @@
 This document is about my custom-built computer system.
 
 <dl>
-	<dt>list</dt>
-	<dd>asdfasdfasdf</dd>
-	<dt>move</dt>
-	<dd><a href="#tag1">이걸 클릭하면 이동</a></dd>
+	<a href="#tag1">이걸 클릭하면 이동</a>
 </dl>
 
 ## Purchased computer hardware
@@ -175,6 +172,4 @@ Date | Moniter | KeyBoard | Mouse | Power | Fan
 
 
 [//]: # (this is comment test.)
-<dl>
-<onclick="window.lacation.href">
-</dl>
+
