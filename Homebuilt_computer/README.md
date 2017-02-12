@@ -2,10 +2,20 @@
 
 This document is about my custom-built computer system.  
 
-**Contents**
+## Contents
 
-- [Purchased computer](#purchased-computer-hardware)  
-- [Precautions berfore purchase](#precautions-before-purchase)
+1. [Purchased computer](#purchased-computer-hardware)  
+2. [Precautions berfore purchase](#precautions-before-purchase)
+3. [Computer hardware brief instruction](#computer-hardware-brief-instruction)
+	- cpu
+	- motherboard
+	- graphic card
+	- memory
+	- power
+	- case
+4. [Current computer system environment](#current-computer-system-environment)
+5. [Problem occur(keep updating)](#problems-occur-(with-date))
+6. [Trouble shooting(keep updating)](#trouble-shooting-(with-period))
 
 ## Purchased computer hardware
 
@@ -31,8 +41,6 @@ When this computer has arrived, I disassembled and rebuilt it for study.
 I bought it for high-end work requiring multi-processing. For example, broadcast, recording, graphics and video works.
 
 ## Precautions before purchase
-
-# Foo
 
 Things to check before purchasing an custom-built computer. You need to find out if all products are compatible. Check this list.
 
